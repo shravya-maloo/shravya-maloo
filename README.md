@@ -8,7 +8,6 @@
 
 *Building impactful projects with AI, automation, and data that solve real-life problems.*
 
-😄 &nbsp;Pronouns: **she/her**  
 🌱 &nbsp;I'm currently learning **AI-powered applications, automation, and cloud architecture**  
 🔭 &nbsp;I'm currently working on **Meet Me in the Middle, an app for smarter group meetup planning**  
 👯 &nbsp;I'm looking to collaborate on **meaningful AI-powered tools, web apps, and data projects**
