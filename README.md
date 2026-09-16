@@ -4,16 +4,16 @@
   </a>
 </p>
 
-### 🚀 About Me
+###  About Me
 
 Building impactful projects with AI, automation, and data that solve real-life problems
 
-😄 &nbsp;Pronouns: **she/her**  
-🌱 &nbsp;I'm currently learning **AI-powered applications, automation, and cloud architecture**  
-🔭 &nbsp;I'm currently working on **Meet Me in the Middle, an app for smarter group meetup planning**  
-👯 &nbsp;I'm looking to collaborate on **meaningful AI-powered tools, web apps, and data projects**
+ &nbsp;Pronouns: **she/her**  
+ &nbsp;I'm currently learning **AI-powered applications, automation, and cloud architecture**  
+ &nbsp;I'm currently working on **Meet Me in the Middle, an app for smarter group meetup planning**  
+ &nbsp;I'm looking to collaborate on **meaningful AI-powered tools, web apps, and data projects**
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
@@ -30,12 +30,9 @@ Building impactful projects with AI, automation, and data that solve real-life p
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🔗 Connect With Me
+###  Connect With Me
 
 <p align="left">
   <a href="mailto:shravyam@uw.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/shravya-maloo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/shravya-maloo">shravya-maloo</a></i></p>
