@@ -6,7 +6,7 @@
 
 ###  About Me
 
-Building impactful projects with AI, automation, and data that solve real-life problems
+*Building impactful projects with AI, automation, and data that solve real-life problems.*
 
 😄 &nbsp;Pronouns: **she/her**  
 🌱 &nbsp;I'm currently learning **AI-powered applications, automation, and cloud architecture**  
@@ -36,6 +36,3 @@ Building impactful projects with AI, automation, and data that solve real-life p
   <a href="mailto:shravyam@uw.edu"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://linkedin.com/in/www.linkedin.com/in/shravya-maloo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
-
----
-<p align="center"><i>⭐️ From <a href="https://github.com/shravya-maloo">shravya-maloo</a></i></p>
